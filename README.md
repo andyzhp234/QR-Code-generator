@@ -6,7 +6,7 @@ Users can customize the Black and White modules of the QR Code.
 
 ## Authors
 
-- Haopeng Zeng
+Haopeng Zeng
 
 ## Demo
 
