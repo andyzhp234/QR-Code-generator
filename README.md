@@ -10,7 +10,7 @@ Haopeng Zeng
 
 ## Demo
 
-Live Demo: https://andyzhp234.github.io/qr-code-generator/
+Live Demo: https://qr-code-generator-tool.netlify.app
 
 ## Features
 
