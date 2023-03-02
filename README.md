@@ -1,6 +1,6 @@
 # QR-Code Generator
 
-A simple website allows user to convert urls or text message in to QR Code.
+A simple website built with React that allows user to convert urls or text message into QR Code.
 
 Users can customize the Black and White modules of the QR Code.
 
@@ -24,13 +24,9 @@ Live Demo: https://andyzhp234.github.io/qr-code-generator/
 
 ## Screenshots
 
-<img src="./screenshots/home.JPG" alt=""/>
-<img src="./screenshots/text.JPG" alt=""/>
-<img src="./screenshots/urls1.JPG" alt=""/>
-<img src="./screenshots/urls2.JPG" alt=""/>
+<img src="./screenshots/screenshots-1.JPG" alt="screenshots"/>
+<img src="./screenshots/screenshots-2.JPG" alt="screenshots"/>
 
-## Tech Stack
+# NPM Packages
 
-**Client:** React.js
-
-**Server:** Node.js
+qrcode
